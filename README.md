@@ -23,7 +23,7 @@ This is a **Netflix Clone** website built using **HTML** and **CSS**. It's a fro
 ## 📸 Screenshots
 ![Netflix Clone Banner](assets/banner1.png)
 ![Netflix Clone Banner](assets/banner2.png)
-![Netflix Clone Banner](assets/banne3.png)
+![Netflix Clone Banner](assets/banner3.png)
 
 
 
